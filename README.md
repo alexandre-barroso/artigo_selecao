@@ -7,7 +7,7 @@ Material de revisão de pares: `Selection.py` reúne verificações simbólicas,
 Com Python 3 disponível, execute na pasta dos arquivos:
 
 ```bash
--m pip install numpy==2.4.4 sympy==1.14.0 matplotlib
+pip install numpy==2.4.4 sympy==1.14.0 matplotlib
 ```
 Para garantir o uso das versões que utilizei. E aí rodar...
 
