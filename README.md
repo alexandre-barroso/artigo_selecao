@@ -1,6 +1,6 @@
 # Suplemento computacional e formal
 
-Material de revisão de pares: `Selection.py` reúne verificações simbólicas, testes determinísticos e simulações. `SelectionStability.lean` e `SelectionCounts.lean` contêm 26 declarações formais.
+`Selection.py` reúne verificações simbólicas, testes determinísticos e simulações. `SelectionStability.lean` e `SelectionCounts.lean` contêm 26 declarações formais.
 
 ## Execução
 
