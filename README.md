@@ -36,4 +36,4 @@ Isso instala o Lean, caso você não tenha. E aí...
 Selection.py --mathlib .mathlib --output resultados_selecao
 ```
 
-Esse comando repete a execução e acrescenta a compilação e a auditoria dos axiomas. O resultado fica no campo `A` de `resultados.npz`. Sem `--mathlib`, esse campo fica vazio e nenhuma prova Lean é compilada. A formalização cobre identidades e limites algébricos auxiliares, não a totalidade dos argumentos probabilísticos, adaptativos ou minimax. 
+Esse comando repete a execução e acrescenta a compilação e a auditoria dos axiomas. O resultado fica no campo `A` de `resultados.npz`. Sem `--mathlib`, esse campo fica vazio e nenhuma prova Lean é compilada. A formalização cobre identidades e limites algébricos. 
